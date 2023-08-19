@@ -20,7 +20,7 @@
  
  c) Ninguno de los anteriores.
 
- 3. Desarrollar un método para encontrar la distancia entre dos nodos, a partir de la suma de los pesos de las aristas que conforman el camino entre el nodo origen y destino, basado en el recorrido en ancho.
+ 3. Desarrollar un método para grafos dirigidos con pesos para encontrar la distancia entre dos nodos, a partir de la suma de los pesos de las aristas que conforman el camino entre el nodo origen y destino, basado en el recorrido en ancho.
 
 [def1]: imagenes/Grafo1.png
 [def2]: imagenes/Grafo2.png
