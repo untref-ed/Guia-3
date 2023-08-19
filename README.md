@@ -2,7 +2,7 @@
 
 1. Dado el siguiente grafo (lapiz y papel):
 
-![Grafo 1][def]
+![Grafo 1][def1]
 
  a) Mostrar un recorrido BFS comenzando en V0.
  
@@ -12,7 +12,7 @@
 
 2. Para el siguiente grafo, determine si los nodos pueden ser visitados en el orden 1, 2, 3, 4, 5 cuando el grafo es recorrido usando: DFS, BFS, ambos o ninguno.:
 
-![Grafo 2][def]
+![Grafo 2][def2]
 
  a) DFS.
  
@@ -22,5 +22,5 @@
 
  3. Desarrollar un método para encontrar la distancia entre dos nodos, a partir de la suma de los pesos de las aristas que conforman el camino entre el nodo origen y destino, basado en el recorrido en ancho.
 
-[def]: imagenes/Grafo1.png
-[def]: imagenes/Grafo2.png
+[def1]: imagenes/Grafo1.png
+[def2]: imagenes/Grafo2.png
